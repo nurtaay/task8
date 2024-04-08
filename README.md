@@ -35,4 +35,9 @@ http://localhost:3000
  
 to view it in the browser.
 
+### Scrennshots
+
+![2024-04-09](https://github.com/nurtaay/task8/assets/113616396/e8c28cfe-7ad2-4ba8-a4e1-4bfaac326a40)
+
+![2024-04-08 (9)](https://github.com/nurtaay/task8/assets/113616396/e95e82ee-8379-4306-8bb1-5bae18bf789f)
 
