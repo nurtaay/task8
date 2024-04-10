@@ -35,4 +35,38 @@ http://localhost:3000
  
 to view it in the browser.
 
+### Scrennshots
 
+![2024-04-09](https://github.com/nurtaay/task8/assets/113616396/e8c28cfe-7ad2-4ba8-a4e1-4bfaac326a40)
+
+![2024-04-08 (9)](https://github.com/nurtaay/task8/assets/113616396/e95e82ee-8379-4306-8bb1-5bae18bf789f)
+
+
+### Test
+
+Unit Test
+
+    ```sh
+    npm run test
+    
+![2024-04-08 (8)](https://github.com/nurtaay/task8/assets/113616396/8b91c135-17e5-42d6-8504-bd379f5a9236)
+
+### Chrome!
+![2024-04-10](https://github.com/nurtaay/task8/assets/113616396/cf95e6f1-72c4-4a85-b929-76ff052eec24)
+
+
+
+
+### Lighthouse Testing
+
+
+![2024-04-10 (4)](https://github.com/nurtaay/task8/assets/113616396/34b0909e-aee7-43b4-91b8-a0419c11332d)
+
+
+![2024-04-10 (1)](https://github.com/nurtaay/task8/assets/113616396/87ea08f2-573f-4c49-90f7-8b25d725c959)
+
+
+![2024-04-10 (2)](https://github.com/nurtaay/task8/assets/113616396/3558707f-a407-48f9-93bf-5a4c81533200)
+
+
+![2024-04-10 (3)](https://github.com/nurtaay/task8/assets/113616396/6e5ef216-7223-4a7d-91b0-90a6f57e77d9)
