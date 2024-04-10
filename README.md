@@ -51,9 +51,9 @@ Unit Test
     
 ![2024-04-08 (8)](https://github.com/nurtaay/task8/assets/113616396/8b91c135-17e5-42d6-8504-bd379f5a9236)
 
-### Chreme!
+### Chrome!
+![2024-04-10](https://github.com/nurtaay/task8/assets/113616396/cf95e6f1-72c4-4a85-b929-76ff052eec24)
 
-[2024-04-10](https://github.com/nurtaay/task8/assets/113616396/5210d7af-1868-47cb-83d6-a2ec730f19c2)
 
 ### Lighthouse Testing
 
