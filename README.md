@@ -55,10 +55,18 @@ Unit Test
 ![2024-04-10](https://github.com/nurtaay/task8/assets/113616396/cf95e6f1-72c4-4a85-b929-76ff052eec24)
 
 
+
+
 ### Lighthouse Testing
 
 
 ![2024-04-10 (4)](https://github.com/nurtaay/task8/assets/113616396/34b0909e-aee7-43b4-91b8-a0419c11332d)
+
+
 ![2024-04-10 (1)](https://github.com/nurtaay/task8/assets/113616396/87ea08f2-573f-4c49-90f7-8b25d725c959)
+
+
 ![2024-04-10 (2)](https://github.com/nurtaay/task8/assets/113616396/3558707f-a407-48f9-93bf-5a4c81533200)
+
+
 ![2024-04-10 (3)](https://github.com/nurtaay/task8/assets/113616396/6e5ef216-7223-4a7d-91b0-90a6f57e77d9)
