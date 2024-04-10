@@ -3,7 +3,7 @@ import { createStore } from 'redux';
 
 const ADD_TASK = 'ADD_TASK';
 const DELETE_TASK = 'DELETE_TASK';
-const UPDATE_TASK = 'UPDATE_TASK'; // Добавляем новый тип действия
+const UPDATE_TASK = 'UPDATE_TASK';
 
 export const addTask = task => ({
     type: ADD_TASK,
@@ -41,7 +41,7 @@ const reducer = (state = initialState, action) => {
                 ...state,
                 tasks: filteredTasks,
             };
-        case UPDATE_TASK: // Добавляем обработку действия UPDATE_TASK
+        case UPDATE_TASK:
             const updatedTasksList = state.tasks.map(task => {
                 if (task.id === action.payload.id) {
                     return { ...task, ...action.payload };

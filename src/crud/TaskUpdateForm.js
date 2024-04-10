@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { Form, Button } from 'react-bootstrap';
-import { updateTask } from '../crud/store';
+import { updateTask } from './store';
 
 const TaskUpdateForm = ({ task, closeModal }) => {
     const [title, setTitle] = useState(task.title);
