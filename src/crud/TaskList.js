@@ -30,7 +30,7 @@ const TaskList = () => {
             <ListGroup className="task-list">
                 <div className="row">
                     {tasks.map(task => (
-                        <div className="col-lg-4 col-md-6 col-sm-12 mb-4" key={task.id}> {/* Apply Bootstrap grid classes */}
+                        <div className="col-lg-4 col-md-6 col-sm-12 mb-4" key={task.id}>
                             <div className="card"> {/* Apply custom CSS class */}
                                 <div className="card-body">
                                     <h5 className="card-title">{task.title}</h5>
