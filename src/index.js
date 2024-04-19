@@ -1,15 +1,15 @@
-// index.js
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux'; // импортируем Provider
-import store from './crud/store'; // импортируем наше хранилище Redux
+import { Provider } from 'react-redux';
+import store from './crud/store';
 import App from './App';
-
+import { register } from './serviceWorkerRegistration'; // Импортируем сервисного работника
 
 ReactDOM.render(
-    <Provider store={store}> {/* Оборачиваем корневой компонент в Provider и передаем ему store */}
+    <Provider store={store}>
         <App />
     </Provider>,
     document.getElementById('root')
 );
 
+ register();// Регистрируем сервисного работника
